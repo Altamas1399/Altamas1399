@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Altamas</h1>
 <h3 align="center">A passionate student/developer from India</h3>
 
-- 🔭 I’m currently studying in **Bengal Institute of technology**
+- 🔭 I’m currently studying in **Techno India Institute of technology**
 
 - 🌱 I’m currently learning **Frontend Development**
 

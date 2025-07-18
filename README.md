@@ -1,21 +1,43 @@
-<h2>Hey there! I’m Altamas</h2><p></p>
-<h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
-<p>💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br>
-🎓 &nbsp;I’m currently studying BCA at Techno India Institute of Technology.<br>
-🌱 &nbsp;I’m on track for learning more about Artificial Intelligence.<br>
-✉️ &nbsp;You can shoot me an email at <a href="mailto:altamas1399@gmail.com">altamas1399@gmail.com</a>! I’ll try to respond as soon as I can.<br>
-</p><h3 id="-tech-stack">🛠 &nbsp;Languages I Know </h3>
-<p>
-<img src="https://img.shields.io/badge/-C-05122A?style=flat&amp;logo=C&amp;logoColor=A8B9CC" alt="C">&nbsp;
-<img src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" alt="Python">&nbsp;
-<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&amp;logo=javascript" alt="JavaScript">&nbsp;
-<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&amp;logo=HTML5" alt="HTML">&nbsp;
-<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" alt="CSS">&nbsp;
-</p><h3 id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h3>
+<!-- Profile README for Altamas -->
+
+<h1 align="center">Hi, I'm Altamas 👋</h1>
 <p align="center">
-<p align="left">
-<a href="https://linkedin.com/in/altamas-islam-245aaa2b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="altamas1399" height="30" width="40"></a>
-<a href="https://fb.com/altamas1399" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="altamas1399" height="30" width="40"></a>
-<a href="https://instagram.com/altamas.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="being_altamas_18" height="30" width="40"></a>
-<a href="https://discord.gg/RPDxzc4z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RPDxzc4z" height="30" width="40"></a>
+  <img src="https://img.shields.io/badge/BCA%20Student-Bengal%20Institute%20of%20Technology-blue" alt="BCA Student" />
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C.svg?&logo=c&logoColor=white" alt="C" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🏫 BCA student at Bengal Institute of Technology
+- 🌱 Passionate about learning web and software development
+- 💡 Interested in building modern websites and exploring new tech
+- 📚 I code in **HTML, CSS, JavaScript, Python, and C**
+
+---
+
+### 🚀 Skills
+
+```text
+HTML      CSS      JavaScript      Python      C
+```
+
+---
+
+### 🌟 Connect with Me
+
+- 📧 [Email](mailto:altamas1399@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/altamas-islam-245aaa2b7)
+
+---
+
+<!-- You can add more sections such as Projects, Certificates, or Hobbies! -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Altamas1399&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>

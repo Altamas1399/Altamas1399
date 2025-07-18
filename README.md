@@ -16,6 +16,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/altamas-islam-245aaa2b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="altamas1399" height="30" width="40"></a>
 <a href="https://fb.com/altamas1399" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="altamas1399" height="30" width="40"></a>
-<a href="https://instagram.com/being_altamas_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="being_altamas_18" height="30" width="40"></a>
+<a href="https://instagram.com/altamas.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="being_altamas_18" height="30" width="40"></a>
 <a href="https://discord.gg/RPDxzc4z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RPDxzc4z" height="30" width="40"></a>
 </p>

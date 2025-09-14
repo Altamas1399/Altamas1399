@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Altamas 👋</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/BCA%20Student-Bengal%20Institute%20of%20Technology-blue" alt="BCA Student" />
+  <img src="https://img.shields.io/badge/BCA%20Student-Techno%20Bengal%20Institute%20of%20Technology-blue" alt="BCA Student" />
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-%231572B6.svg?&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&logo=javascript&logoColor=black" alt="JavaScript" />
